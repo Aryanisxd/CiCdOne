@@ -1,5 +1,5 @@
 
-cd CiCdchecks25
+cd cicdone
 git pull origin main
 npm install
 npm run build 
